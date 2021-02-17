@@ -45,7 +45,7 @@
                                 </div>
                                 <div class="text">
                                     <h3>+91 9599-000-555</h3>
-                                    <p>Call Us For Free Consultation</p>
+                                    <p>Call Us For Consultation</p>
                                 </div>
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
@@ -106,8 +106,8 @@
                     <div class="carousel-item active">
                         <img src="img/carousel-1.jpg" alt="Carousel Image">
                         <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We fight for your justice</h1>
-                            <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p>
+                            <h1 class="animated fadeInLeft">We fight for your privilege</h1>
+                            <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <a class="btn animated fadeInUp" href="#">Get free consultation</a>
                         </div>
                     </div>
@@ -115,8 +115,8 @@
                     <div class="carousel-item">
                         <img src="img/carousel-2.jpg" alt="Carousel Image">
                         <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We prepared to oppose for you</h1>
-                            <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p>
+                            <h1 class="animated fadeInLeft">We fight for your privilege</h1>
+                            <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <a class="btn animated fadeInUp" href="#">Get free consultation</a>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                         <img src="img/carousel-3.jpg" alt="Carousel Image">
                         <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
-                            <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p>
+                            <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <a class="btn animated fadeInUp" href="#">Get free consultation</a>
                         </div>
                     </div>
@@ -195,12 +195,12 @@
                                 <h2>Learn About Us</h2>
                             </div>
                             <div class="about-text">
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
                                 </p>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
-                                </p>
+                                </p> -->
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
@@ -223,9 +223,9 @@
                                     <i class="fa fa-landmark"></i>
                                 </div>
                                 <h3>Civil Law</h3>
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p>
+                                </p> -->
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
@@ -235,9 +235,9 @@
                                     <i class="fa fa-users"></i>
                                 </div>
                                 <h3>Family Law</h3>
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p>
+                                </p> -->
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
@@ -247,9 +247,9 @@
                                     <i class="fa fa-hand-holding-usd"></i>
                                 </div>
                                 <h3>Business Law</h3>
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p>
+                                </p> -->
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
@@ -259,9 +259,9 @@
                                     <i class="fa fa-graduation-cap"></i>
                                 </div>
                                 <h3>Education Law</h3>
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p>
+                                </p> -->
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
@@ -271,9 +271,9 @@
                                     <i class="fa fa-gavel"></i>
                                 </div>
                                 <h3>Criminal Law</h3>
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p>
+                                </p> -->
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
@@ -283,9 +283,9 @@
                                     <i class="fa fa-globe"></i>
                                 </div>
                                 <h3>Cyber Law</h3>
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p>
+                                </p> -->
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
@@ -311,9 +311,9 @@
                                 </div>
                                 <div class="col-7">
                                     <h3>Best law practices</h3>
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                             <div class="row align-items-center feature-item">
@@ -324,9 +324,9 @@
                                 </div>
                                 <div class="col-7">
                                     <h3>Efficiency & Trust</h3>
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                             <div class="row align-items-center feature-item">
@@ -337,9 +337,9 @@
                                 </div>
                                 <div class="col-7">
                                     <h3>Results you deserve</h3>
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate.
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -452,60 +452,60 @@
                                 <div class="card">
                                     <div class="card-header">
                                         <a class="card-link collapsed" data-toggle="collapse" href="#collapseOne" aria-expanded="true">
-                                            <span>1</span> Lorem ipsum dolor sit amet?
+                                            <!-- <span>1</span> Lorem ipsum dolor sit amet? -->
                                         </a>
                                     </div>
                                     <div id="collapseOne" class="collapse show" data-parent="#accordion">
                                         <div class="card-body">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non.
+                                            <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non. -->
                                         </div>
                                     </div>
                                 </div>
                                 <div class="card">
                                     <div class="card-header">
                                         <a class="card-link" data-toggle="collapse" href="#collapseTwo">
-                                            <span>2</span> Lorem ipsum dolor sit amet?
+                                            <!-- <span>2</span> Lorem ipsum dolor sit amet? -->
                                         </a>
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent="#accordion">
                                         <div class="card-body">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non.
+                                            <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non. -->
                                         </div>
                                     </div>
                                 </div>
                                 <div class="card">
                                     <div class="card-header">
                                         <a class="card-link" data-toggle="collapse" href="#collapseThree">
-                                            <span>3</span> Lorem ipsum dolor sit amet?
+                                            <!-- <span>3</span> Lorem ipsum dolor sit amet? -->
                                         </a>
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent="#accordion">
                                         <div class="card-body">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non.
+                                            <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non. -->
                                         </div>
                                     </div>
                                 </div>
                                 <div class="card">
                                     <div class="card-header">
                                         <a class="card-link" data-toggle="collapse" href="#collapseFour">
-                                            <span>4</span> Lorem ipsum dolor sit amet?
+                                            <!-- <span>4</span> Lorem ipsum dolor sit amet? -->
                                         </a>
                                     </div>
                                     <div id="collapseFour" class="collapse" data-parent="#accordion">
                                         <div class="card-body">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non.
+                                            <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non. -->
                                         </div>
                                     </div>
                                 </div>
                                 <div class="card">
                                     <div class="card-header">
                                         <a class="card-link" data-toggle="collapse" href="#collapseFive">
-                                            <span>5</span> Lorem ipsum dolor sit amet?
+                                            <!-- <span>5</span> Lorem ipsum dolor sit amet? -->
                                         </a>
                                     </div>
                                     <div id="collapseFive" class="collapse" data-parent="#accordion">
                                         <div class="card-body">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non.
+                                            <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non. -->
                                         </div>
                                     </div>
                                 </div> 
@@ -536,9 +536,9 @@
                                     <p>Profession</p>
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacus eget velit
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -553,9 +553,9 @@
                                     <p>Profession</p>
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacus eget velit
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -570,9 +570,9 @@
                                     <p>Profession</p>
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacus eget velit
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -587,9 +587,9 @@
                                     <p>Profession</p>
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacus eget velit
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -604,9 +604,9 @@
                                     <p>Profession</p>
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacus eget velit
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -621,9 +621,9 @@
                                     <p>Profession</p>
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacus eget velit
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -638,9 +638,9 @@
                                     <p>Profession</p>
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <!-- <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam accumsan lacus eget velit
-                                    </p>
+                                    </p> -->
                                 </div>
                             </div>
                         </div>
@@ -659,121 +659,107 @@
                     <div class="owl-carousel blog-carousel">
                         <div class="blog-item">
                             <img src="img/blog-1.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
+                            <!-- <h3>Lorem ipsum dolor</h3> -->
                             <div class="meta">
                                 <i class="fa fa-list-alt"></i>
                                 <a href="">Civil Law</a>
                                 <i class="fa fa-calendar-alt"></i>
                                 <p>01-Jan-2045</p>
                             </div>
-                            <p>
+                            <!-- <p>
                                 Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
+                            </p> -->
                             <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                         <div class="blog-item">
                             <img src="img/blog-2.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
+                            <!-- <h3>Lorem ipsum dolor</h3> -->
                             <div class="meta">
                                 <i class="fa fa-list-alt"></i>
                                 <a href="">Family Law</a>
                                 <i class="fa fa-calendar-alt"></i>
                                 <p>01-Jan-2045</p>
                             </div>
-                            <p>
+                            <!-- <p>
                                 Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
+                            </p> -->
                             <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                         <div class="blog-item">
                             <img src="img/blog-3.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
+                            <!-- <h3>Lorem ipsum dolor</h3> -->
                             <div class="meta">
                                 <i class="fa fa-list-alt"></i>
                                 <a href="">Business Law</a>
                                 <i class="fa fa-calendar-alt"></i>
                                 <p>01-Jan-2045</p>
                             </div>
-                            <p>
+                            <!-- <p>
                                 Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
+                            </p> -->
                             <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                         <div class="blog-item">
                             <img src="img/blog-1.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
+                            <!-- <h3>Lorem ipsum dolor</h3> -->
                             <div class="meta">
                                 <i class="fa fa-list-alt"></i>
                                 <a href="">Education Law</a>
                                 <i class="fa fa-calendar-alt"></i>
                                 <p>01-Jan-2045</p>
                             </div>
-                            <p>
+                            <!-- <p>
                                 Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
+                            </p> -->
                             <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                         <div class="blog-item">
                             <img src="img/blog-2.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
+                            <!-- <h3>Lorem ipsum dolor</h3> -->
                             <div class="meta">
                                 <i class="fa fa-list-alt"></i>
                                 <a href="">Criminal Law</a>
                                 <i class="fa fa-calendar-alt"></i>
                                 <p>01-Jan-2045</p>
                             </div>
-                            <p>
+                            <!-- <p>
                                 Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
+                            </p> -->
                             <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                         <div class="blog-item">
                             <img src="img/blog-3.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
+                            <!-- <h3>Lorem ipsum dolor</h3> -->
                             <div class="meta">
                                 <i class="fa fa-list-alt"></i>
                                 <a href="">Cyber Law</a>
                                 <i class="fa fa-calendar-alt"></i>
                                 <p>01-Jan-2045</p>
                             </div>
-                            <p>
+                            <!-- <p>
                                 Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
+                            </p> -->
                             <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                         <div class="blog-item">
                             <img src="img/blog-1.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
+                            <!-- <h3>Lorem ipsum dolor</h3> -->
                             <div class="meta">
                                 <i class="fa fa-list-alt"></i>
                                 <a href="">Business Law</a>
                                 <i class="fa fa-calendar-alt"></i>
                                 <p>01-Jan-2045</p>
                             </div>
-                            <p>
+                            <!-- <p>
                                 Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
+                            </p> -->
                             <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <!-- Blog End -->
-            
-            
-            <!-- Newsletter Start -->
-            <div class="newsletter">
-                <div class="container">
-                    <div class="section-header">
-                        <h2>Subscribe Our Newsletter</h2>
-                    </div>
-                    <div class="form">
-                        <input class="form-control" placeholder="Email here">
-                        <button class="btn">Submit</button>
-                    </div>
-                </div>
-            </div>
-            <!-- Newsletter End -->
+           
 
 
             <!-- Footer Start -->
@@ -783,9 +769,9 @@
                         <div class="col-md-6 col-lg-4">
                             <div class="footer-about">
                                 <h2>About Us</h2>
-                                <p>
+                                <!-- <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu lectus a leo tristique dictum nec non quam. Suspendisse convallis, tortor eu placerat rhoncus, lorem quam iaculis felis, sed eleifend lacus neque id eros. Integer convallis volutpat neque
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-8">

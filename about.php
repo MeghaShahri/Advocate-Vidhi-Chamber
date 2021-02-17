@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="text">
                                     <h2>+123 456 7890</h2>
-                                    <p>Call Us For Free Consultation</p>
+                                    <p>Call Us For Consultation</p>
                                 </div>
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
@@ -73,15 +73,15 @@
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav mr-auto">
                                 <a href="home.html" class="nav-item nav-link">Home</a>
-                                <a href="about.html" class="nav-item nav-link">About</a>
+                                <a href="about.html" class="nav-item nav-link active">About</a>
                                 <a href="service.html" class="nav-item nav-link">Practice Areas</a>
                                 <a href="team.html" class="nav-item nav-link">Our Team</a>
                                 <a href="portfolio.html" class="nav-item nav-link">Updates</a>
                                 <div class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle active" data-toggle="dropdown">Pages</a>
+                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                     <div class="dropdown-menu">
-                                        <a href="blog.html" class="dropdown-item">Blog Page</a>
-                                        <a href="single.html" class="dropdown-item">Single Page</a>
+                                        <a href="single-page.html" class="dropdown-item">Blog Page</a>
+                                        <a href="#" class="dropdown-item">Single Page</a>
                                     </div>
                                 </div>
                                 <a href="contact.html" class="nav-item nav-link">Contact</a>
@@ -101,11 +101,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h2>Our Blog</h2>
+                            <h2>About Us</h2>
                         </div>
                         <div class="col-12">
                             <a href="">Home</a>
-                            <a href="">Our Blog</a>
+                            <a href="">About Us</a>
                         </div>
                     </div>
                 </div>
@@ -113,169 +113,176 @@
             <!-- Page Header End -->
 
 
-            <!-- Blog Start -->
-            <div class="blog">
+            <!-- About Start -->
+            <div class="about">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 col-md-6">
+                            <div class="about-img">
+                                <img src="img/about.jpg" alt="Image">
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-md-6">
+                            <div class="section-header">
+                                <h2>Learn About Us</h2>
+                            </div>
+                            <div class="about-text">
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                </p>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
+                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- About End -->
+
+
+            <!-- Timeline Start -->
+            <div class="timeline">
                 <div class="container">
                     <div class="section-header">
-                        <h2>Latest From Blog</h2>
+                        <h2>Learn About Our Journey</h2>
                     </div>
-                    <div class="row blog-page">
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-1.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Civil Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
+                    <div class="timeline-start">
+                        <div class="timeline-container left">
+                            <div class="timeline-content">
+                                <h2><span>2020</span>Lorem ipsum dolor sit amet</h2>
+                                <p>
+                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                </p>
                             </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-2.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Family Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
+                        <div class="timeline-container right">
+                            <div class="timeline-content">
+                                <h2><span>2019</span>Lorem ipsum dolor sit amet</h2>
+                                <p>
+                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                </p>
                             </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-3.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Business Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
+                        <div class="timeline-container left">
+                            <div class="timeline-content">
+                                <h2><span>2018</span>Lorem ipsum dolor sit amet</h2>
+                                <p>
+                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                </p>
                             </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-1.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Education Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
+                        <div class="timeline-container right">
+                            <div class="timeline-content">
+                                <h2><span>2017</span>Lorem ipsum dolor sit amet</h2>
+                                <p>
+                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                </p>
                             </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-2.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Criminal Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
+                        <div class="timeline-container left">
+                            <div class="timeline-content">
+                                <h2><span>2016</span>Lorem ipsum dolor sit amet</h2>
+                                <p>
+                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                </p>
                             </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-3.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Cyber Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
+                        <div class="timeline-container right">
+                            <div class="timeline-content">
+                                <h2><span>2015</span>Lorem ipsum dolor sit amet</h2>
+                                <p>
+                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                                </p>
                             </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-1.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Property Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
-                            </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
-                        </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-2.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Political Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
-                            </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
-                        </div>
-                        <div class="col-lg-4 col-md-6 blog-item">
-                            <img src="img/blog-3.jpg" alt="Blog">
-                            <h3>Lorem ipsum dolor</h3>
-                            <div class="meta">
-                                <i class="fa fa-list-alt"></i>
-                                <a href="">Social Law</a>
-                                <i class="fa fa-calendar-alt"></i>
-                                <p>01-Jan-2045</p>
-                            </div>
-                            <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor
-                            </p>
-                            <a class="btn" href="">Read More <i class="fa fa-angle-right"></i></a>
-                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Timeline End -->
+
+
+            <!-- Team Start -->
+            <div class="team">
+                <div class="container">
+                    <div class="section-header">
+                        <h2>Meet Our Expert Attorneys</h2>
                     </div>
                     <div class="row">
-                        <div class="col-12">
-                            <ul class="pagination justify-content-center">
-                                <li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
-                                <li class="page-item"><a class="page-link" href="#">1</a></li>
-                                <li class="page-item active"><a class="page-link" href="#">2</a></li>
-                                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                <li class="page-item"><a class="page-link" href="#">Next</a></li>
-                            </ul> 
+                        <div class="col-lg-3 col-md-6">
+                            <div class="team-item">
+                                <div class="team-img">
+                                    <img src="img/team-1.jpg" alt="Team Image">
+                                </div>
+                                <div class="team-text">
+                                    <h2>Adam Phillips</h2>
+                                    <p>Business Consultant</p>
+                                    <div class="team-social">
+                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
+                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
+                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
+                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="team-item">
+                                <div class="team-img">
+                                    <img src="img/team-2.jpg" alt="Team Image">
+                                </div>
+                                <div class="team-text">
+                                    <h2>Dylan Adams</h2>
+                                    <p>Criminal Consultant</p>
+                                    <div class="team-social">
+                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
+                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
+                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
+                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="team-item">
+                                <div class="team-img">
+                                    <img src="img/team-3.jpg" alt="Team Image">
+                                </div>
+                                <div class="team-text">
+                                    <h2>Gloria Edwards</h2>
+                                    <p>Divorce Consultant</p>
+                                    <div class="team-social">
+                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
+                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
+                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
+                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6">
+                            <div class="team-item">
+                                <div class="team-img">
+                                    <img src="img/team-4.jpg" alt="Team Image">
+                                </div>
+                                <div class="team-text">
+                                    <h2>Josh Dunn</h2>
+                                    <p>Immigration Consultant</p>
+                                    <div class="team-social">
+                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
+                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
+                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
+                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Blog End -->
+            <!-- Team End -->
 
-
-            <!-- Newsletter Start -->
-            <div class="newsletter">
-                <div class="container">
-                    <div class="section-header">
-                        <h2>Subscribe Our Newsletter</h2>
-                    </div>
-                    <div class="form">
-                        <input class="form-control" placeholder="Email here">
-                        <button class="btn">Submit</button>
-                    </div>
-                </div>
-            </div>
-            <!-- Newsletter End -->
 
 
             <!-- Footer Start -->

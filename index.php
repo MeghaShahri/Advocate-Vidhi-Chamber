@@ -72,7 +72,7 @@
                                 </div>
                                 <div class="text">
                                     <h3>+91 9599-000-555</h3>
-                                    <p>Call Us For Free Consultation</p>
+                                    <p>Call Us For Consultation</p>
                                 </div>
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
@@ -788,19 +788,6 @@
             <!-- Blog End -->
             
             
-            <!-- Newsletter Start -->
-            <div class="newsletter">
-                <div class="container">
-                    <div class="section-header">
-                        <h2>Subscribe Our Newsletter</h2>
-                    </div>
-                    <div class="form">
-                        <input class="form-control" placeholder="Email here">
-                        <button class="btn">Submit</button>
-                    </div>
-                </div>
-            </div>
-            <!-- Newsletter End -->
 
 
             <!-- Footer Start -->

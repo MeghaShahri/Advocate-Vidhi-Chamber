@@ -40,13 +40,13 @@
                         <div class="col-lg-9">
                             <div class="top-bar-right">
                                 <div class="text">
-                                   
-                                    <p>Mon: 11:00 am - 5:30 am, Tue: 11:00 am - 8:00 pm, Wed: 11:00 am - 8:00 pm,<br> 
-                                        Thurs: 11:00 am - 8:00 pm, Fri: 11:00 am - 8:00 pm, Sat: 11:00 am - 8:00 pm, Sun: 5:30 am - 8:00 pm</p>
+                                    
+                                    <p>Mon: 11:00 am - 5:30 am, Tue: 11:00 am - 8:00 pm, Wed: 11:00 am - 8:00 pm,<br>
+                                         Thurs: 11:00 am - 8:00 pm, Fri: 11:00 am - 8:00 pm, Sat: 11:00 am - 8:00 pm, Sun: 5:30 am - 8:00 pm</p>
                                 </div>
                                 <div class="text">
                                     <h2>+123 456 7890</h2>
-                                    <p>Call Us For Free Consultation</p>
+                                    <p>Call Us For Consultation</p>
                                 </div>
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
@@ -73,9 +73,9 @@
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav mr-auto">
                                 <a href="home.html" class="nav-item nav-link">Home</a>
-                                <a href="about.html" class="nav-item nav-link active">About</a>
+                                <a href="about.html" class="nav-item nav-link">About</a>
                                 <a href="service.html" class="nav-item nav-link">Practice Areas</a>
-                                <a href="team.html" class="nav-item nav-link">Our Team</a>
+                                <a href="team.html" class="nav-item nav-link active">Our Team</a>
                                 <a href="portfolio.html" class="nav-item nav-link">Updates</a>
                                 <div class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
@@ -101,11 +101,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h2>About Us</h2>
+                            <h2>Attorneys</h2>
                         </div>
                         <div class="col-12">
                             <a href="">Home</a>
-                            <a href="">About Us</a>
+                            <a href="">Attorneys</a>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                         </div>
                         <div class="col-lg-7 col-md-6">
                             <div class="section-header">
-                                <h2>Learn About Us</h2>
+                                <h2>About Attorneys</h2>
                             </div>
                             <div class="about-text">
                                 <p>
@@ -140,67 +140,6 @@
                 </div>
             </div>
             <!-- About End -->
-
-
-            <!-- Timeline Start -->
-            <div class="timeline">
-                <div class="container">
-                    <div class="section-header">
-                        <h2>Learn About Our Journey</h2>
-                    </div>
-                    <div class="timeline-start">
-                        <div class="timeline-container left">
-                            <div class="timeline-content">
-                                <h2><span>2020</span>Lorem ipsum dolor sit amet</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline-container right">
-                            <div class="timeline-content">
-                                <h2><span>2019</span>Lorem ipsum dolor sit amet</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline-container left">
-                            <div class="timeline-content">
-                                <h2><span>2018</span>Lorem ipsum dolor sit amet</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline-container right">
-                            <div class="timeline-content">
-                                <h2><span>2017</span>Lorem ipsum dolor sit amet</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline-container left">
-                            <div class="timeline-content">
-                                <h2><span>2016</span>Lorem ipsum dolor sit amet</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="timeline-container right">
-                            <div class="timeline-content">
-                                <h2><span>2015</span>Lorem ipsum dolor sit amet</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Timeline End -->
 
 
             <!-- Team Start -->
@@ -284,20 +223,7 @@
             <!-- Team End -->
 
 
-            <!-- Newsletter Start -->
-            <div class="newsletter">
-                <div class="container">
-                    <div class="section-header">
-                        <h2>Subscribe Our Newsletter</h2>
-                    </div>
-                    <div class="form">
-                        <input class="form-control" placeholder="Email here">
-                        <button class="btn">Submit</button>
-                    </div>
-                </div>
-            </div>
-            <!-- Newsletter End -->
-
+            
 
             <!-- Footer Start -->
             <div class="footer">

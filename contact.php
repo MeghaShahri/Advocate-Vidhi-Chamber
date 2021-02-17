@@ -41,12 +41,11 @@
                             <div class="top-bar-right">
                                 <div class="text">
                                     
-                                    <p>Mon: 11:00 am - 5:30 am, Tue: 11:00 am - 8:00 pm, Wed: 11:00 am - 8:00 pm,<br>
-                                         Thurs: 11:00 am - 8:00 pm, Fri: 11:00 am - 8:00 pm, Sat: 11:00 am - 8:00 pm, Sun: 5:30 am - 8:00 pm</p>
+                                    <p>Mon: 11:00 am - 5:30 am, Tue: 11:00 am - 8:00 pm, Wed: 11:00 am - 8:00 pm,<br> Thurs: 11:00 am - 8:00 pm, Fri: 11:00 am - 8:00 pm, Sat: 11:00 am - 8:00 pm, Sun: 5:30 am - 8:00 pm</p>
                                 </div>
                                 <div class="text">
                                     <h2>+123 456 7890</h2>
-                                    <p>Call Us For Free Consultation</p>
+                                    <p>Call Us For Consultation</p>
                                 </div>
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
@@ -75,16 +74,16 @@
                                 <a href="home.html" class="nav-item nav-link">Home</a>
                                 <a href="about.html" class="nav-item nav-link">About</a>
                                 <a href="service.html" class="nav-item nav-link">Practice Areas</a>
-                                <a href="team.html" class="nav-item nav-link active">Our Team</a>
+                                <a href="team.html" class="nav-item nav-link">Our Team</a>
                                 <a href="portfolio.html" class="nav-item nav-link">Updates</a>
                                 <div class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                                     <div class="dropdown-menu">
-                                        <a href="single-page.html" class="dropdown-item">Blog Page</a>
-                                        <a href="#" class="dropdown-item">Single Page</a>
+                                        <a href="blog.html" class="dropdown-item">Blog Page</a>
+                                        <a href="single.html" class="dropdown-item">Single Page</a>
                                     </div>
                                 </div>
-                                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                                <a href="contact.html" class="nav-item nav-link active">Contact</a>
                             </div>
                             <div class="ml-auto">
                                 <a class="btn" href="">Get Appointment</a>
@@ -101,11 +100,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h2>Attorneys</h2>
+                            <h2>Contact Us</h2>
                         </div>
                         <div class="col-12">
                             <a href="">Home</a>
-                            <a href="">Attorneys</a>
+                            <a href="">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -113,129 +112,63 @@
             <!-- Page Header End -->
 
 
-            <!-- About Start -->
-            <div class="about">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-5 col-md-6">
-                            <div class="about-img">
-                                <img src="img/about.jpg" alt="Image">
-                            </div>
-                        </div>
-                        <div class="col-lg-7 col-md-6">
-                            <div class="section-header">
-                                <h2>About Attorneys</h2>
-                            </div>
-                            <div class="about-text">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
-                                </p>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
-                                </p>
-                                <a class="btn" href="">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- About End -->
-
-
-            <!-- Team Start -->
-            <div class="team">
+            <!-- Contact Start -->
+            <div class="contact">
                 <div class="container">
                     <div class="section-header">
-                        <h2>Meet Our Expert Attorneys</h2>
+                        <h2>Contact Us</h2>
                     </div>
                     <div class="row">
-                        <div class="col-lg-3 col-md-6">
-                            <div class="team-item">
-                                <div class="team-img">
-                                    <img src="img/team-1.jpg" alt="Team Image">
+                        <div class="col-md-6">
+                            <div class="contact-info">
+                                <div class="contact-item">
+                                    <i class="fa fa-map-marker-alt"></i>
+                                    <div class="contact-text">
+                                        <h2>Location</h2>
+                                        <p>123 Street, New York, USA</p>
+                                    </div>
                                 </div>
-                                <div class="team-text">
-                                    <h2>Adam Phillips</h2>
-                                    <p>Business Consultant</p>
-                                    <div class="team-social">
-                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                <div class="contact-item">
+                                    <i class="fa fa-phone-alt"></i>
+                                    <div class="contact-text">
+                                        <h2>Phone</h2>
+                                        <p>+012 345 67890</p>
+                                    </div>
+                                </div>
+                                <div class="contact-item">
+                                    <i class="fa fa-envelope"></i>
+                                    <div class="contact-text">
+                                        <h2>Email</h2>
+                                        <p>info@example.com</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="team-item">
-                                <div class="team-img">
-                                    <img src="img/team-2.jpg" alt="Team Image">
-                                </div>
-                                <div class="team-text">
-                                    <h2>Dylan Adams</h2>
-                                    <p>Criminal Consultant</p>
-                                    <div class="team-social">
-                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                        <div class="col-md-6">
+                            <div class="contact-form">
+                                <form>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Your Name" required="required" />
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="team-item">
-                                <div class="team-img">
-                                    <img src="img/team-3.jpg" alt="Team Image">
-                                </div>
-                                <div class="team-text">
-                                    <h2>Gloria Edwards</h2>
-                                    <p>Divorce Consultant</p>
-                                    <div class="team-social">
-                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" placeholder="Your Email" required="required" />
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="team-item">
-                                <div class="team-img">
-                                    <img src="img/team-4.jpg" alt="Team Image">
-                                </div>
-                                <div class="team-text">
-                                    <h2>Josh Dunn</h2>
-                                    <p>Immigration Consultant</p>
-                                    <div class="team-social">
-                                        <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                        <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Subject" required="required" />
                                     </div>
-                                </div>
+                                    <div class="form-group">
+                                        <textarea class="form-control" placeholder="Message" required="required" ></textarea>
+                                    </div>
+                                    <div>
+                                        <button class="btn" type="submit">Send Message</button>
+                                    </div>
+                                </form>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Team End -->
-
-
-            <!-- Newsletter Start -->
-            <div class="newsletter">
-                <div class="container">
-                    <div class="section-header">
-                        <h2>Subscribe Our Newsletter</h2>
-                    </div>
-                    <div class="form">
-                        <input class="form-control" placeholder="Email here">
-                        <button class="btn">Submit</button>
-                    </div>
-                </div>
-            </div>
-            <!-- Newsletter End -->
+            <!-- Contact End -->
 
 
             <!-- Footer Start -->

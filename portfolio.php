@@ -46,7 +46,7 @@
                                 </div>
                                 <div class="text">
                                     <h2>+123 456 7890</h2>
-                                    <p>Call Us For Free Consultation</p>
+                                    <p>Call Us For Consultation</p>
                                 </div>
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
