@@ -24,58 +24,47 @@
     </head>
 
     <body>
-    <?php
-        include 'common/nav.php';
-    ?>
-
-        
-            
-            
+        <?php
+            include 'common/nav.php';
+        ?>
+ 
             <!-- Carousel Start -->
-            <div id="carousel" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#carousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#carousel" data-slide-to="1"></li>
-                    <li data-target="#carousel" data-slide-to="2"></li>
-                </ol>
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/carousel-1.jpg" alt="Carousel Image">
-                        <div class="carousel-caption">
+                    <img class="d-block w-100" src="img/carousel-1.jpg"alt="First slide">
+                    <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
-                            <a class="btn animated fadeInUp" href="#">Get free consultation</a>
+                            <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
-
                     <div class="carousel-item">
-                        <img src="img/carousel-2.jpg" alt="Carousel Image">
-                        <div class="carousel-caption">
+                    <img class="d-block w-100" src="img/carousel-2.jpg" alt="Second slide">
+                    <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
-                            <a class="btn animated fadeInUp" href="#">Get free consultation</a>
+                            <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
-
                     <div class="carousel-item">
-                        <img src="img/carousel-3.jpg" alt="Carousel Image">
-                        <div class="carousel-caption">
+                    <img class="d-block w-100" src="img/carousel-3.jpg" alt="Third slide">
+                    <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
-                            <a class="btn animated fadeInUp" href="#">Get free consultation</a>
+                            <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
                 </div>
-
-                <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
-            </div>
+                </div>
             <!-- Carousel End -->
             
             
@@ -699,78 +688,9 @@
 
 
             <!-- Footer Start -->
-            <div class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-about">
-                                <h2>About Us</h2>
-                                <!-- <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu lectus a leo tristique dictum nec non quam. Suspendisse convallis, tortor eu placerat rhoncus, lorem quam iaculis felis, sed eleifend lacus neque id eros. Integer convallis volutpat neque
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-8">
-                            <div class="row">
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-link">
-                                <h2>Services Areas</h2>
-                                <a href="">Civil Law</a>
-                                <a href="">Family Law</a>
-                                <a href="">Business Law</a>
-                                <a href="">Education Law</a>
-                                <a href="">Immigration Law</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-link">
-                                <h2>Useful Pages</h2>
-                                <a href="">About Us</a>
-                                <a href="">Practices</a>
-                                <a href="">Attorneys</a>
-                                <a href="">Case Studies</a>
-                                <a href="">FAQs</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-contact">
-                                <h2>Get In Touch</h2>
-                                <p><i class="fa fa-map-marker-alt"></i>123 Street, New York, USA</p>
-                                <p><i class="fa fa-phone-alt"></i>+012 345 67890</p>
-                                <p><i class="fa fa-envelope"></i>info@example.com</p>
-                                <div class="footer-social">
-                                    <a href=""><i class="fab fa-twitter"></i></a>
-                                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a href=""><i class="fab fa-youtube"></i></a>
-                                    <a href=""><i class="fab fa-instagram"></i></a>
-                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div class="container footer-menu">
-                    <div class="f-menu">
-                        <a href="">Terms of use</a>
-                        <a href="">Privacy policy</a>
-                        <a href="">Cookies</a>
-                        <a href="">Help</a>
-                        <a href="">FQAs</a>
-                    </div>
-                </div>
-                <div class="container copyright">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <p>&copy; <a href="https://htmlcodex.com/law-firm-website-template">HTML Codex</a>, All Right Reserved.</p>
-                        </div>
-                        <div class="col-md-6">
-                            <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php
+                include 'common/footer.php';
+            ?>
             <!-- Footer End -->
             
             <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>

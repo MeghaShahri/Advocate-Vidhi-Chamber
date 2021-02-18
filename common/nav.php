@@ -13,14 +13,7 @@
                         </div>
                         <div class="col-lg-9">
                             <div class="top-bar-right">
-                                <div class="text">
-                                    <p>Mon: 11:00 am - 5:30 am, Tue: 11:00 am - 8:00 pm, Wed: 11:00 am - 8:00 pm,<br> Thurs: 11:00 am - 8:00 pm, Fri: 11:00 am - 8:00 pm, Sat: 11:00 am - 8:00 pm, Sun: 5:30 am - 8:00 pm</p>
-                                    
-                                </div>
-                                <div class="text">
-                                    <h3>+91 9599-000-555</h3>
-                                    <p>Call Us For Consultation</p>
-                                </div>
+                             
                                 <div class="social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
                                     <a href=""><i class="fab fa-facebook-f"></i></a>
@@ -45,19 +38,12 @@
 
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav mr-auto">
-                                <a href="index.php" class="nav-item nav-link active">Home</a>
+                                <a href="home.php" class="nav-item nav-link active">Home</a>
                                 <a href="about.php" class="nav-item nav-link">About</a>
                                 <a href="service.php" class="nav-item nav-link">Practice Areas</a>
                                 <a href="team.php" class="nav-item nav-link">Our Team</a>
                                 <a href="portfolio.php" class="nav-item nav-link">Updates</a>
-                                <div class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                                    <div class="dropdown-menu">
-                                        <a href="blog.php" class="dropdown-item">Blog Page</a>
-                                        <a href="single.php" class="dropdown-item">Single Page</a>
-                                    </div>
-                                </div>
-                                <a href="contact.php" class="nav-item nav-link">Contact</a>
+                                <a href="contact.php" class="nav-item nav-link">Contact US</a>
                             </div>
                             <div class="ml-auto">
                                 <a class="btn" href="https://htmlcodex.com/law-firm-website-template">Get Appointment</a>

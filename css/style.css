@@ -227,7 +227,12 @@ a:focus {
 }
 
 .nav-bar .btn:hover {
-    background: #333333;
+    background: #ffffff;
+}
+
+.nav-bar a:hover {
+    color: black;
+    
 }
 
 @media (min-width: 992px) {
@@ -268,6 +273,7 @@ a:focus {
     
     .nav-bar .dropdown-menu {
         box-shadow: none;
+
     }
     
     .nav-bar .btn {
@@ -654,7 +660,8 @@ a:focus {
     position: relative;
     width: 100%;
     text-align: center;
-    background: #121518;
+    background: #ffffff;
+    border:2px solid black;
     margin-bottom: 30px;
 }
 
@@ -686,13 +693,14 @@ a:focus {
     margin: 0;
     padding: 25px 15px 15px 15px;
     font-size: 30px;
-    font-weight: 600;
-    color: #ffffff;
+    /* font-weight: 600; */
+    color: black;
+    font-weight: bold;
 }
 
 .service .service-item p {
     margin: 0;
-    color: #999999;
+    color: black;
     padding: 0 25px 25px 25px;
     font-size: 18px;
 }
@@ -714,7 +722,7 @@ a:focus {
 
 .service .service-item:hover a.btn {
     color: #121518;
-    background: #ffffff;
+    background: #666666;
 }
 
 .service .container .row {
@@ -1476,7 +1484,7 @@ a:focus {
 .contact .contact-item {
     position: relative;
     margin-bottom: 30px;
-    padding: 30px;
+    padding: 15px;
     display: flex;
     align-items: flex-start;
     flex-direction: row;
@@ -1505,6 +1513,12 @@ a:focus {
     color: #ffffff;
     font-size: 25px;
     font-weight: 600;
+}
+
+.contact .contact-text h3 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
 }
 
 .contact .contact-text p {
@@ -1598,7 +1612,7 @@ a:focus {
 /*******************************/
 /********** Newsletter *********/
 /*******************************/
-.newsletter {
+/* .newsletter {
     position: relative;
     max-width: 900px;
     margin: 45px auto -140px auto;
@@ -1647,7 +1661,7 @@ a:focus {
 .newsletter .btn:hover {
     color: #121518;
     background: #ffffff;
-}
+} */
 
 
 /*******************************/

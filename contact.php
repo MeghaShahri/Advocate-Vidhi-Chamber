@@ -24,74 +24,9 @@
     </head>
 
     <body>
-        <div class="wrapper">
-            <!-- Top Bar Start -->
-            <div class="top-bar">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-lg-3">
-                            <div class="logo">
-                                <a href="index.html">
-                                    <h1 style="font-size:40px;">Vidhi Chamber</h1>
-                                    <!-- <img src="img/logo.jpg" alt="Logo"> -->
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-9">
-                            <div class="top-bar-right">
-                                <div class="text">
-                                    
-                                    <p>Mon: 11:00 am - 5:30 am, Tue: 11:00 am - 8:00 pm, Wed: 11:00 am - 8:00 pm,<br> Thurs: 11:00 am - 8:00 pm, Fri: 11:00 am - 8:00 pm, Sat: 11:00 am - 8:00 pm, Sun: 5:30 am - 8:00 pm</p>
-                                </div>
-                                <div class="text">
-                                    <h2>+123 456 7890</h2>
-                                    <p>Call Us For Consultation</p>
-                                </div>
-                                <div class="social">
-                                    <a href=""><i class="fab fa-twitter"></i></a>
-                                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                    <a href=""><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Top Bar End -->
-
-            <!-- Nav Bar Start -->
-            <div class="nav-bar">
-                <div class="container-fluid">
-                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                        <a href="#" class="navbar-brand">MENU</a>
-                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-
-                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                            <div class="navbar-nav mr-auto">
-                                <a href="home.html" class="nav-item nav-link">Home</a>
-                                <a href="about.html" class="nav-item nav-link">About</a>
-                                <a href="service.html" class="nav-item nav-link">Practice Areas</a>
-                                <a href="team.html" class="nav-item nav-link">Our Team</a>
-                                <a href="portfolio.html" class="nav-item nav-link">Updates</a>
-                                <div class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                                    <div class="dropdown-menu">
-                                        <a href="blog.html" class="dropdown-item">Blog Page</a>
-                                        <a href="single.html" class="dropdown-item">Single Page</a>
-                                    </div>
-                                </div>
-                                <a href="contact.html" class="nav-item nav-link active">Contact</a>
-                            </div>
-                            <div class="ml-auto">
-                                <a class="btn" href="">Get Appointment</a>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
+    <?php
+        include 'common/nav.php';
+    ?>
             <!-- Nav Bar End -->
             
             
@@ -125,21 +60,24 @@
                                     <i class="fa fa-map-marker-alt"></i>
                                     <div class="contact-text">
                                         <h2>Location</h2>
-                                        <p>123 Street, New York, USA</p>
+                                        <p>House No. 132, Sector 6, Mansa Devi Complex, 
+                                            Panchkula (Haryana) 134 109 </p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="fa fa-phone-alt"></i>
                                     <div class="contact-text">
                                         <h2>Phone</h2>
-                                        <p>+012 345 67890</p>
+                                        <p>+91-172-2555132, 7696-664466.</p><br>
+                                        <h3>Phone Timings</h3>
+                                        <p>Mon: 11:00 am - 5:30 am, Tue: 11:00 am - 8:00 pm, Wed: 11:00 am - 8:00 pm,<br> Thurs: 11:00 am - 8:00 pm, Fri: 11:00 am - 8:00 pm,<br> Sat: 11:00 am - 8:00 pm, Sun: 5:30 am - 8:00 pm</p>
                                     </div>
                                 </div>
                                 <div class="contact-item">
                                     <i class="fa fa-envelope"></i>
                                     <div class="contact-text">
                                         <h2>Email</h2>
-                                        <p>info@example.com</p>
+                                        <p>vidhichambers@yahoo.co.in </p>
                                     </div>
                                 </div>
                             </div>
@@ -172,78 +110,9 @@
 
 
             <!-- Footer Start -->
-            <div class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-about">
-                                <h2>About Us</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu lectus a leo tristique dictum nec non quam. Suspendisse convallis, tortor eu placerat rhoncus, lorem quam iaculis felis, sed eleifend lacus neque id eros. Integer convallis volutpat neque
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-8">
-                            <div class="row">
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-link">
-                                <h2>Services Areas</h2>
-                                <a href="">Civil Law</a>
-                                <a href="">Family Law</a>
-                                <a href="">Business Law</a>
-                                <a href="">Education Law</a>
-                                <a href="">Immigration Law</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-link">
-                                <h2>Useful Pages</h2>
-                                <a href="">About Us</a>
-                                <a href="">Practices</a>
-                                <a href="">Attorneys</a>
-                                <a href="">Case Studies</a>
-                                <a href="">FAQs</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <div class="footer-contact">
-                                <h2>Get In Touch</h2>
-                                <p><i class="fa fa-map-marker-alt"></i>123 Street, New York, USA</p>
-                                <p><i class="fa fa-phone-alt"></i>+012 345 67890</p>
-                                <p><i class="fa fa-envelope"></i>info@example.com</p>
-                                <div class="footer-social">
-                                    <a href=""><i class="fab fa-twitter"></i></a>
-                                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a href=""><i class="fab fa-youtube"></i></a>
-                                    <a href=""><i class="fab fa-instagram"></i></a>
-                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                <div class="container footer-menu">
-                    <div class="f-menu">
-                        <a href="">Terms of use</a>
-                        <a href="">Privacy policy</a>
-                        <a href="">Cookies</a>
-                        <a href="">Help</a>
-                        <a href="">FQAs</a>
-                    </div>
-                </div>
-                <div class="container copyright">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <p>&copy; <a href="https://htmlcodex.com/law-firm-website-template">HTML Codex</a>, All Right Reserved.</p>
-                        </div>
-                        <div class="col-md-6">
-                            <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php
+                include 'common/footer.php';
+            ?>
             <!-- Footer End -->
             
             <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
