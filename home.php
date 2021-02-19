@@ -27,12 +27,12 @@
         <?php
             include 'common/nav.php';
         ?>
- 
+            <br>
             <!-- Carousel Start -->
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/carousel-1.jpg"alt="First slide">
+                    <img class="d-block w-100" src="img/banner1.jpg"alt="First slide">
                     <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
@@ -40,7 +40,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block w-100" src="img/carousel-2.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="img/banner2.jpg" alt="Second slide">
                     <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
@@ -69,7 +69,7 @@
             
             
             <!-- Top Feature Start-->
-            <div class="feature-top">
+            <!-- <div class="feature-top">
                 <div class="container-fluid">
                     <div class="row align-items-center">
                         <div class="col-md-3 col-sm-6">
@@ -102,8 +102,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- Top Feature End-->
+            </div> --> 
+            <!-- Top Feature End
             
             
             <!-- About Start -->

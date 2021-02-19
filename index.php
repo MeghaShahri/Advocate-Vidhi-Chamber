@@ -48,8 +48,8 @@
           </p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-primary" onclick="location.href='home.php';" >Agree</button>
-          <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="closeMe()">Diasagree</button>
+          <button type="button" class="btn" style="background:black; color:white;" onclick="location.href='home.php';" >I Agree</button>
+          <button type="button" class="btn"style="background:black; color:white;" data-dismiss="modal" onclick="closeMe()"> I Diasagree</button>
          
         </div>
       </div>

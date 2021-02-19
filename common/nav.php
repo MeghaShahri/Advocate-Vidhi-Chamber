@@ -1,3 +1,28 @@
+<style>
+
+.modal-body .form-horizontal .col-sm-2,
+.modal-body .form-horizontal .col-sm-10 {
+    width: 100%
+}
+
+.modal-body .form-horizontal .control-label {
+    text-align: left;
+}
+.modal-body .form-horizontal .col-sm-offset-2 {
+    margin-left: 15px;
+}
+
+select {
+  width: 55%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+</style>
 <div class="wrapper">
             <!-- Top Bar Start -->
             <div class="top-bar">
@@ -46,10 +71,51 @@
                                 <a href="contact.php" class="nav-item nav-link">Contact US</a>
                             </div>
                             <div class="ml-auto">
-                                <a class="btn" href="https://htmlcodex.com/law-firm-website-template">Get Appointment</a>
+                                <a class="btn" href="https://htmlcodex.com/law-firm-website-template" data-toggle="modal" data-target="#myModalNorm">Get Appointment</a>
                             </div>
                         </div>
                     </nav>
                 </div>
             </div>
             <!-- Nav Bar End -->
+
+<div class="modal fade" id="myModalNorm" tabindex="-1" role="dialog" 
+     aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+             <!-- Modal Body -->
+            <div class="modal-body">
+                
+                <form role="form">
+                  <div class="form-group">
+                    <label for="exampleInputEmail1" style="font-weight:bold;color:black">Email address</label>
+                      <input type="email" class="form-control"
+                      id="exampleInputEmail1" placeholder="Enter email"/>
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleInputPassword1" style="font-weight:bold;color:black">Name</label>
+                      <input type="password" class="form-control"
+                          id="exampleInputPassword1" placeholder="Enter name"/>
+                  </div>
+
+                 <label id="label_p" for="profession" style="font-weight:bold;color:black">Select slot </label><br>
+                    <select id="profession" name="profession">
+                    <option value="Student">Mon: 11:00 am - 5:30 am</option>
+                    <option value="Govt Employee">Tue: 11:00 am - 8:00 pm</option>
+                    <option value="Pvt Employee">Wed: 11:00 am - 8:00 pm</option>
+                    <option value="Businessman">Thurs: 11:00 am - 8:00 pm</option>
+                    <option value="Professional">Fri: 11:00 am - 8:00 pm</option>
+                    <option value="Retired">Sat: 11:00 am - 8:00 pm</option>
+                    <option value="Housewife">Sun: 5:30 am - 8:00 pm</option>
+                    </select>
+                 
+                 
+                 <br> <br><button type="button" class="btn" style="background:black; colo:white">
+                    Submit
+                </button>      
+                </form>        
+            </div>   
+        </div>
+    </div>
+</div>
+
