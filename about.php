@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Vidhi Chamber</title>
+        <title>Vidhi Chambers-About Us</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="Law Firm Website Template" name="keywords">
         <meta content="Law Firm Website Template" name="description">
@@ -242,5 +242,6 @@
 
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
+        
     </body>
 </html>

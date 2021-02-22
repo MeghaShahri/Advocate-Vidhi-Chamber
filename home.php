@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Vidhi Chamber</title>
+        <title>Vidhi Chambers-Home</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="Law Firm Website Template" name="keywords">
         <meta content="Law Firm Website Template" name="description">
@@ -26,13 +26,14 @@
     <body>
         <?php
             include 'common/nav.php';
+           
         ?>
-            <br>
+          
             <!-- Carousel Start -->
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/banner1.jpg"alt="First slide">
+                    <img class="d-block w-100" src="img/banner-1.jpg"alt="First slide">
                     <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
@@ -40,7 +41,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block w-100" src="img/banner2.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="img/banner-4.jpg" alt="Second slide">
                     <div class="carousel-caption">
                             <h1 class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
@@ -135,89 +136,511 @@
             <!-- About End -->
 
 
-            <!-- Service Start -->
             <div class="service">
                 <div class="container">
                     <div class="section-header">
                         <h2>Our Practices Areas</h2>
                     </div>
                     <div class="row">
-                        <div class="col-lg-4 col-md-6">
+                        <div class="box">
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-landmark"></i>
                                 </div>
-                                <h3>Civil Law</h3>
-                                <!-- <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p> -->
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="box">
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-users"></i>
                                 </div>
-                                <h3>Family Law</h3>
-                                <!-- <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p> -->
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="box">
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-hand-holding-usd"></i>
                                 </div>
-                                <h3>Business Law</h3>
-                                <!-- <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p> -->
+                                <h3>EducationLaw</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="box">
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-graduation-cap"></i>
                                 </div>
                                 <h3>Education Law</h3>
-                                <!-- <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p> -->
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="box">
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-gavel"></i>
                                 </div>
-                                <h3>Criminal Law</h3>
-                                <!-- <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p> -->
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                       
+                    </div>
+
+                    <!-- 2nd row -->
+                    <div class="row">
+                        <div class="box">
                             <div class="service-item">
                                 <div class="service-icon">
-                                    <i class="fa fa-globe"></i>
+                                    <i class="fa fa-landmark"></i>
                                 </div>
-                                <h3>Cyber Law</h3>
-                                <!-- <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
-                                </p> -->
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
                                 <a class="btn" href="">Learn More</a>
                             </div>
                         </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-hand-holding-usd"></i>
+                                </div>
+                                <h3>EducationLaw</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-gavel"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                       
                     </div>
+
+                    <!-- 3rd row -->
+                    <div class="row">
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-landmark"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-hand-holding-usd"></i>
+                                </div>
+                                <h3>EducationLaw</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-gavel"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                       
+                    </div>
+
+                    <!-- 4th row -->
+                    <div class="row">
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-landmark"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-hand-holding-usd"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-gavel"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                       
+                    </div>
+
+                    <!-- 5th row -->
+                    <div class="row">
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-landmark"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-hand-holding-usd"></i>
+                                </div>
+                                <h3>EducationLaw</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-gavel"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                       
+                    </div>
+
+                    <!-- 6th row -->
+                    <div class="row">
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-landmark"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-hand-holding-usd"></i>
+                                </div>
+                                <h3>EducationLaw</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-gavel"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                       
+                    </div>
+
+                    <!-- 7th row -->
+                    <div class="row">
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-landmark"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-hand-holding-usd"></i>
+                                </div>
+                                <h3>EducationLaw</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-gavel"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                       
+                    </div>
+
+                    <!-- 8th row -->
+                    <div class="row">
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-landmark"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-hand-holding-usd"></i>
+                                </div>
+                                <h3>EducationLaw</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-graduation-cap"></i>
+                                </div>
+                                <h3>Education Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-gavel"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                       
+                    </div>
+
+                    <!-- 9th row -->
+                    <div class="row">
+                        <div class="box">
+                            <div class="service-item">
+                                <div class="service-icon">
+                                    <i class="fa fa-landmark"></i>
+                                </div>
+                                <h3>Education  Law</h3>
+                                <p>
+Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
+                                <a class="btn" href="">Learn More</a>
+                            </div>
+                        </div>
+                        
+                       
+                    </div>
+
                 </div>
             </div>
             <!-- Service End -->
+            
             
             
             <!-- Feature Start -->
@@ -706,5 +1129,7 @@
 
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
+        
+        
     </body>
     </html>

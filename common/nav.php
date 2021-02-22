@@ -1,5 +1,4 @@
 <style>
-
 .modal-body .form-horizontal .col-sm-2,
 .modal-body .form-horizontal .col-sm-10 {
     width: 100%
@@ -22,6 +21,11 @@ select {
   box-sizing: border-box;
 }
 
+.navbar-nav .nav-item .nav-link  a:hover:not(.active) {
+    border-bottom: 2px solid #fff;
+    transition: .1s all ease-out;
+}
+
 </style>
 <div class="wrapper">
             <!-- Top Bar Start -->
@@ -31,7 +35,7 @@ select {
                         <div class="col-lg-3">
                             <div class="logo">
                                 <a href="index.html">
-                                    <h1 style="font-size:40px;">Vidhi Chamber</h1>
+                                    <h1 style="font-size:40px;">Vidhi Chambers</h1>
                                     <!-- <img src="img/logo.jpg" alt="Logo"> -->
                                 </a>
                             </div>
@@ -62,13 +66,13 @@ select {
                         </button>
 
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                            <div class="navbar-nav mr-auto">
-                                <a href="home.php" class="nav-item nav-link active">Home</a>
-                                <a href="about.php" class="nav-item nav-link">About</a>
-                                <a href="service.php" class="nav-item nav-link">Practice Areas</a>
-                                <a href="team.php" class="nav-item nav-link">Our Team</a>
-                                <a href="portfolio.php" class="nav-item nav-link">Updates</a>
-                                <a href="contact.php" class="nav-item nav-link">Contact US</a>
+                            <div class="navbar-nav mr-auto" id="navbar-nav">
+                                <a href="home.php" id="this1" class="nav-item nav-link">Home</a>
+                                <a href="about.php" id="this2" class="nav-item nav-link">About</a>
+                                <a href="service.php" id="this3" class="nav-item nav-link">Practice Areas</a>
+                                <a href="team.php" id="this4" class="nav-item nav-link">Our Team</a>
+                                <a href="portfolio.php" id="this5" class="nav-item nav-link">Updates</a>
+                                <a href="contact.php" id="this6" class="nav-item nav-link">Contact US</a>
                             </div>
                             <div class="ml-auto">
                                 <a class="btn" href="https://htmlcodex.com/law-firm-website-template" data-toggle="modal" data-target="#myModalNorm">Get Appointment</a>
@@ -119,3 +123,79 @@ select {
     </div>
 </div>
 
+<script>
+    var upperData = window.location.href;
+var first = document.getElementById('this1');
+var second = document.getElementById('this2');
+var third = document.getElementById('this3');
+var fourth = document.getElementById('this4');
+var fifth= document.getElementById('this5');
+var sixth= document.getElementById('this6');
+if (upperData.includes("home")) {
+    first.className += " active";
+    second.className.replace(" active", "");
+    third.className.replace(" active", "");
+    fourth.className.replace(" active", "");
+    fifth.className.replace(" active", "");
+    sixth.className.replace(" active", "");
+} else {
+    if (upperData.includes("about")) {
+        document.getElementById('this2').className += " active";
+        first.className.replace(" active", "");
+        third.className.replace(" active", "");
+        fourth.className.replace(" active", "");
+        fifth.className.replace(" active", "");
+        sixth.className.replace(" active", "");
+    } else {
+        if (upperData.includes("service")) {
+            third.className += " active";
+            first.className.replace(" active", "");
+            second.className.replace(" active", "");
+            fourth.className.replace(" active", "");
+            fifth.className.replace(" active", "");
+            sixth.className.replace(" active", "");
+        } else {
+            if (upperData.includes("team")) {
+                fourth.className += " active";
+                first.className.replace(" active", "");
+                second.className.replace(" active", "");
+                third.className.replace(" active", "");
+                fifth.className.replace(" active", "");
+                sixth.className.replace(" active", "");
+            }
+         else {
+            if (upperData.includes("portfolio")) {
+                fifth.className += " active";
+                first.className.replace(" active", "");
+                second.className.replace(" active", "");
+                third.className.replace(" active", "");
+                fourth.className.replace(" active", "");
+                sixth.className.replace(" active", "");
+            }
+        
+
+        else {
+            if (upperData.includes("contact")) {
+                sixth.className += " active";
+                first.className.replace(" active", "");
+                second.className.replace(" active", "");
+                third.className.replace(" active", "");
+                fifth.className.replace(" active", "");
+                fourth.className.replace(" active", "");
+            }
+        }
+    }
+    }
+        
+    }
+}
+    var aTagContainer = document.getElementById("navbar-nav");
+    var aTags = aTagContainer.getElementsByClassName("nav-item nav-link");
+    for (var i = 0; i < aTags.length; i++) {
+        aTags[i].addEventListener("click", function() {
+            var current = document.getElementsByClassName("active");
+            current[0].className = current[0].className.replace(" active", "");
+            this.className += " active";
+        });
+    }
+</script>

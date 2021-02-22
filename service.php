@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Vidhi Chamber</title>
+        <title>Vidhi Chambers-Practice Areas</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="Law Firm Website Template" name="keywords">
         <meta content="Law Firm Website Template" name="description">
@@ -51,14 +51,14 @@
             <div class="service">
                 <div class="container">
                     <div class="section-header">
-                        <h2>Our Practices Areas</h2>
+                        <h2>Our Practice Areas</h2>
                     </div>
                     <div class="row">
                         <div class="box">
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-landmark"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -69,7 +69,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-users"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -80,7 +80,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-hand-holding-usd"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>EducationLaw</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -91,7 +91,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-graduation-cap"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -102,7 +102,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-gavel"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -118,7 +118,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-landmark"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -129,7 +129,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-users"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -140,7 +140,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-hand-holding-usd"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>EducationLaw</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -151,7 +151,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-graduation-cap"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -162,7 +162,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-gavel"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -178,7 +178,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-landmark"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -189,7 +189,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-users"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -200,7 +200,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-hand-holding-usd"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>EducationLaw</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -211,7 +211,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-graduation-cap"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -222,7 +222,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-gavel"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -238,7 +238,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-landmark"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -249,7 +249,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-users"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -260,7 +260,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-hand-holding-usd"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -271,7 +271,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-graduation-cap"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -282,7 +282,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-gavel"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -298,7 +298,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-landmark"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -309,7 +309,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-users"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -320,7 +320,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-hand-holding-usd"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>EducationLaw</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -331,7 +331,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-graduation-cap"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -342,7 +342,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-gavel"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -358,7 +358,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-landmark"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -369,7 +369,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-users"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -380,7 +380,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-hand-holding-usd"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>EducationLaw</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -391,7 +391,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-graduation-cap"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -402,7 +402,7 @@ Education law is the body of state and federal law that covers teachers, schools
                             <div class="service-item">
                                 <div class="service-icon">
                                     <i class="fa fa-gavel"></i>
-                                </div>
+                                </div><hr class="myline">
                                 <h3>Education  Law</h3>
                                 <p>
 Education law is the body of state and federal law that covers teachers, schools, school districts, school boards, and the students they teach.                                </p>
@@ -634,5 +634,7 @@ Education law is the body of state and federal law that covers teachers, schools
 
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
+ 
+  
     </body>
 </html>
