@@ -12,7 +12,7 @@
                         </div>
                         <div class="col-md-6 col-lg-8">
                             <div class="row">
-                        <div class="col-md-6 col-lg-4">
+                        <!-- <div class="col-md-6 col-lg-4">
                             <div class="footer-link">
                                 <h2>Services Areas</h2>
                                 <a href="">Civil Law</a>
@@ -21,23 +21,26 @@
                                 <a href="">Education Law</a>
                                 <a href="">Immigration Law</a>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-md-6 col-lg-4">
                             <div class="footer-link">
                                 <h2>Useful Pages</h2>
                                 <a href="">About Us</a>
-                                <a href="">Practices</a>
+                                <a href="">Practice Areas</a>
                                 <a href="">Attorneys</a>
-                                <a href="">Case Studies</a>
+                                <a href="">Updates</a>
                                 <a href="">FAQs</a>
                             </div>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class="col-md-6 col-lg-8">
                             <div class="footer-contact">
                                 <h2>Get In Touch</h2>
-                                <p><i class="fa fa-map-marker-alt"></i>123 Street, New York, USA</p>
-                                <p><i class="fa fa-phone-alt"></i>+012 345 67890</p>
-                                <p><i class="fa fa-envelope"></i>info@example.com</p>
+                                <p><i class="fa fa-map-marker-alt"></i>House No. 132, Sector 6, Mansa Devi Complex, 
+                                            Panchkula (Haryana) 134 109</p>
+                                <p><i class="fa fa-phone-alt"></i>+91-172-2555132, 7696-664466.</p>
+
+                                <p>Monday to Friday: 12:00 pm - 5:00 pm</p>
+                                <p><i class="fa fa-envelope"></i>vidhichambers@yahoo.co.in</p>
                                 <div class="footer-social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
                                     <a href=""><i class="fab fa-facebook-f"></i></a>

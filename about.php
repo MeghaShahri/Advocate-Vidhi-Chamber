@@ -33,7 +33,7 @@
             
             
             <!-- Page Header Start -->
-            <div class="page-header">
+            <!-- <div class="page-header">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -45,7 +45,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Page Header End -->
 
 
@@ -63,7 +63,7 @@
                                 <h2>Learn About Us</h2>
                             </div>
                             <div class="about-text">
-                                <p>
+                                <p style="color:black;">
                                 Vidhi chambers is a full service law institute established with the objective of providing comprehensive
                                 and sophisticated legal advice and services to its clients, who are a mix of small and large companies
                                 including the individual clients engaged in a myriad of complex commercial activities.

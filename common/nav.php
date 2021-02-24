@@ -25,6 +25,10 @@ select {
     border-bottom: 2px solid #fff;
     transition: .1s all ease-out;
 }
+.form-group label{
+    color:black;
+    font-weight:bold;
+}
 
 </style>
 <div class="wrapper">
@@ -59,23 +63,23 @@ select {
             <!-- Nav Bar Start -->
             <div class="nav-bar">
                 <div class="container-fluid">
-                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                        <a href="#" class="navbar-brand">MENU</a>
+                    <nav class="navbar navbar-expand-lg bg-dark navbar-light">
+                        <a href="#" style="color:black;" class="navbar-brand">MENU</a>
                         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                            <span class="navbar-toggler-icon"></span>
+                            <span  class="navbar-toggler-icon"></span>
                         </button>
 
                         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                             <div class="navbar-nav mr-auto" id="navbar-nav">
-                                <a href="home.php" id="this1" class="nav-item nav-link">Home</a>
-                                <a href="about.php" id="this2" class="nav-item nav-link">About</a>
-                                <a href="service.php" id="this3" class="nav-item nav-link">Practice Areas</a>
-                                <a href="team.php" id="this4" class="nav-item nav-link">Our Team</a>
-                                <a href="portfolio.php" id="this5" class="nav-item nav-link">Updates</a>
-                                <a href="contact.php" id="this6" class="nav-item nav-link">Contact US</a>
+                                <a href="home.php" id="this1" style="color:black;" class="nav-item nav-link">Home</a>
+                                <a href="about.php" id="this2" style="color:black;" class="nav-item nav-link">About</a>
+                                <a href="service.php" id="this3" style="color:black;" class="nav-item nav-link">Practice Areas</a>
+                                <a href="team.php" id="this4" style="color:black;" class="nav-item nav-link">Our Team</a>
+                                <a href="portfolio.php" style="color:black;" id="this5" class="nav-item nav-link">Updates</a>
+                                <a href="contact.php" style="color:black;" id="this6" class="nav-item nav-link">Contact US</a>
                             </div>
                             <div class="ml-auto">
-                                <a class="btn" href="https://htmlcodex.com/law-firm-website-template" data-toggle="modal" data-target="#myModalNorm">Get Appointment</a>
+                                <a class="btn" href="appointment.php?status=empty">Get Appointment</a>
                             </div>
                         </div>
                     </nav>
@@ -83,45 +87,7 @@ select {
             </div>
             <!-- Nav Bar End -->
 
-<div class="modal fade" id="myModalNorm" tabindex="-1" role="dialog" 
-     aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-             <!-- Modal Body -->
-            <div class="modal-body">
-                
-                <form role="form">
-                  <div class="form-group">
-                    <label for="exampleInputEmail1" style="font-weight:bold;color:black">Email address</label>
-                      <input type="email" class="form-control"
-                      id="exampleInputEmail1" placeholder="Enter email"/>
-                  </div>
-                  <div class="form-group">
-                    <label for="exampleInputPassword1" style="font-weight:bold;color:black">Name</label>
-                      <input type="password" class="form-control"
-                          id="exampleInputPassword1" placeholder="Enter name"/>
-                  </div>
 
-                 <label id="label_p" for="profession" style="font-weight:bold;color:black">Select slot </label><br>
-                    <select id="profession" name="profession">
-                    <option value="Student">Mon: 11:00 am - 5:30 am</option>
-                    <option value="Govt Employee">Tue: 11:00 am - 8:00 pm</option>
-                    <option value="Pvt Employee">Wed: 11:00 am - 8:00 pm</option>
-                    <option value="Businessman">Thurs: 11:00 am - 8:00 pm</option>
-                    <option value="Professional">Fri: 11:00 am - 8:00 pm</option>
-                    <option value="Retired">Sat: 11:00 am - 8:00 pm</option>
-                    <option value="Housewife">Sun: 5:30 am - 8:00 pm</option>
-                    </select>
-                 
-                 
-                 <br> <br><button type="button" class="btn" style="background:black; colo:white">
-                    Submit
-                </button>      
-                </form>        
-            </div>   
-        </div>
-    </div>
-</div>
 
 <script>
     var upperData = window.location.href;
@@ -198,4 +164,7 @@ if (upperData.includes("home")) {
             this.className += " active";
         });
     }
+
+    
+    
 </script>

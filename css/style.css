@@ -248,7 +248,7 @@ a:focus {
     
 } */
 .navbar-nav a.active{
-    border-bottom: 2px solid black;
+    border-bottom: 4px solid #ff6600;
 }
 
 @media (min-width: 992px) {
@@ -280,7 +280,7 @@ a:focus {
     .nav-bar,
     .nav-bar .navbar {
         padding: 3px 0;
-        background: #121518 !important;
+        background: white !important;
     }
     
     .nav-bar a.nav-link {
@@ -288,6 +288,7 @@ a:focus {
     }
     
     .nav-bar .dropdown-menu {
+        
         box-shadow: none;
 
     }
@@ -351,6 +352,10 @@ a:focus {
     font-weight: 700;
     margin-bottom: 20px;
 }
+#banner-two-text{
+    margin-left:-270px;
+
+}
 
 .carousel .carousel-caption p {
     color: #ffffff;
@@ -375,6 +380,16 @@ a:focus {
     color: #121518;
     background: #ffffff;
 }
+@media (max-width: 920px) {
+    .carousel .carousel-caption h1 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+    /* #banner-two-text{
+        margin-left:-270px;
+    
+    } */
+}
 
 @media (max-width: 767.98px) {
     .carousel .carousel-caption h1 {
@@ -392,6 +407,8 @@ a:focus {
         font-weight: 500;
         letter-spacing: 0;
     }
+
+   
 }
 
 @media (max-width: 575.98px) {
@@ -1290,20 +1307,20 @@ hr.myline{
 
 .timeline .timeline-container .timeline-content {
     padding: 30px;
-    background: #121518;
+    background: #ffc40c;
     position: relative;
-    border-right: 5px solid #ffffff;
+    border: 2px solid black;
 }
 
 .timeline .timeline-container.right .timeline-content {
-    border-left: 5px solid #ffffff;
+    border: 2px solid black;
 }
 
 .timeline .timeline-container .timeline-content h2 {
     margin-bottom: 15px;
     font-size: 22px;
     font-weight: 600;
-    color: #ffffff;
+    color: black;
 }
 
 .timeline .timeline-container .timeline-content h2 span {
@@ -1311,7 +1328,7 @@ hr.myline{
     margin-right: 15px;
     padding: 5px 10px;
     color: #121518;
-    background: #ffffff;
+    background: white;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
 }
@@ -1319,7 +1336,7 @@ hr.myline{
 .timeline .timeline-container .timeline-content p {
     margin: 0;
     font-size: 16px;
-    color: #999999;
+    color: black;
 }
 
 @media (max-width: 767.98px) {
@@ -1553,10 +1570,18 @@ hr.myline{
     margin-bottom: 0;
 }
 
+#div-contact-form{
+    text-align:center;
+    left:15%;
+}
 .contact .contact-form {
-    position: relative;
+    /* position: relative; */
+    text-align: center;
+    margin:0;
+    padding:0;
     margin-bottom: 30px;
 }
+
 
 .contact .contact-form input {
     height: 60px;
@@ -1578,17 +1603,29 @@ hr.myline{
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #ffffff;
-    background: #121518;
-    border: 2px solid #ffffff;
+    color:black;
+    background: #ffc40c;
+    border: 2px solid black;
     border-radius: 0;
     transition: .3s;
 }
+@media (max-width: 992px) {
+    #div-contact-form{
+        text-align:center;
+        left:20%;
+    }
+}
+@media (max-width: 760px) {
+    #div-contact-form{
+        text-align:center;
+        left:1%;
+    }
+}
 
-.contact .contact-form .btn:hover {
+/* .contact .contact-form .btn:hover {
     color: #121518;
     background: #666666;
-}
+} */
 
 
 /*******************************/

@@ -43,7 +43,7 @@
                     <div class="carousel-item">
                     <img class="d-block w-100" src="img/banner-4.jpg" alt="Second slide">
                     <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We fight for your privilege</h1>
+                            <h1 id="banner-two-text" class="animated fadeInLeft">We fight for your privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
