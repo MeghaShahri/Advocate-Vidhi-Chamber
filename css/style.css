@@ -348,9 +348,24 @@ a:focus {
 
 .carousel .carousel-caption h1 {
     color: #ffffff;
-    font-size: 60px;
-    font-weight: 700;
+    font-size: 52px;
+    font-weight: 550;
     margin-bottom: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#caption1{
+    margin-bottom: 325px;
+    margin-left:35px;
+
+}
+#caption2{
+    margin-bottom: 20px;
+    margin-left:250px;
+
+}
+#caption3{
+    margin-bottom: -250px;
+
 }
 #banner-two-text{
     margin-left:-270px;
@@ -1029,17 +1044,17 @@ hr.myline{
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #ffffff;
-    border: 2px solid #ffffff;
+    color:black;
+    background: #ffc40c;
+    border: 2px solid black;
     border-radius: 0;
-    background: #121518;
     transition: .3s;
 }
 
-.faqs a.btn:hover {
+/* .faqs a.btn:hover {
     color: #121518;
     background: #666666;
-}
+} */
 
 
 /*******************************/

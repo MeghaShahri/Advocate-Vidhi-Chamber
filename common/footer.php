@@ -6,7 +6,9 @@
                             <div class="footer-about">
                                 <h2>About Us</h2>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu lectus a leo tristique dictum nec non quam. Suspendisse convallis, tortor eu placerat rhoncus, lorem quam iaculis felis, sed eleifend lacus neque id eros. Integer convallis volutpat neque
+                                Vidhi chambers is a full service law institute established with the objective of providing comprehensive
+                                and sophisticated legal advice and services to its clients, who are a mix of small and large companies
+                                including the individual clients engaged in a myriad of complex commercial activities.
                                 </p>
                             </div>
                         </div>
@@ -39,7 +41,7 @@
                                             Panchkula (Haryana) 134 109</p>
                                 <p><i class="fa fa-phone-alt"></i>+91-172-2555132, 7696-664466.</p>
 
-                                <p>Monday to Friday: 12:00 pm - 5:00 pm</p>
+                                <p>Availability :- Monday to Saturday: 12:00 pm - 5:00 pm</p>
                                 <p><i class="fa fa-envelope"></i>vidhichambers@yahoo.co.in</p>
                                 <div class="footer-social">
                                     <a href=""><i class="fab fa-twitter"></i></a>

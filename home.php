@@ -33,25 +33,25 @@
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/banner-1.jpg"alt="First slide">
-                    <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We fight for your privilege</h1>
+                    <img class="d-block w-100" src="img/img1.jpg"alt="First slide">
+                    <div class="carousel-caption" id="caption1">
+                            <h1 class="animated fadeInLeft" id="caption1">We fight for your Privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block w-100" src="img/banner-4.jpg" alt="Second slide">
-                    <div class="carousel-caption">
-                            <h1 id="banner-two-text" class="animated fadeInLeft">We fight for your privilege</h1>
+                    <img class="d-block w-100" src="img/img3.jpg" alt="Second slide">
+                    <div class="carousel-caption" id="caption2">
+                            <h1 id="banner-two-text" class="animated fadeInLeft" id="caption2">We fight for your Privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
                     <div class="carousel-item">
-                    <img class="d-block w-100" src="img/carousel-3.jpg" alt="Third slide">
-                    <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We fight for your privilege</h1>
+                    <img class="d-block w-100" src="img/img2.jpg" alt="Third slide">
+                    <div class="carousel-caption" id="caption3">
+                            <h1 class="animated fadeInLeft" id="caption3">We fight for your Privilege</h1>
                             <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
@@ -119,6 +119,15 @@
                         <div class="col-lg-7 col-md-6">
                             <div class="section-header">
                                 <h2>Learn About Us</h2>
+                                <p style="color:black;">
+                                Vidhi chambers is a full service law institute established with the objective of providing comprehensive
+                                and sophisticated legal advice and services to its clients, who are a mix of small and large companies
+                                including the individual clients engaged in a myriad of complex commercial activities.
+                                The vidhi chambers recognize that its ability to provide high quality and useful advice to clients is
+                                entirely driven by the expertise and experience of its attorneys. Consequently the firm lays utmost
+                                emphasis on ensuring that its attorneys not only posses strong legal acumen but also diligence and
+                                commercial understanding required to meet clients expectations and offer reliable and business
+                                oriented legal solutions.</p>
                             </div>
                             <div class="about-text">
                                 <!-- <p>

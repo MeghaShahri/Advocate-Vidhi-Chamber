@@ -26,7 +26,6 @@
         .msg {
             position: relative;
             padding: .75rem 1.25rem;
-            /* margin-bottom: 1rem; */
             border: 1px solid transparent;
             border-radius: .25rem;
             }
@@ -72,6 +71,52 @@
         -ms-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
    }
+   @media(max-width:499px){
+    .details2-form{
+        width:500px;
+    }
+   }
+   @media(max-width:415px){
+    .details2-form{
+        width:450px;
+    }
+   }
+
+   @media(max-width:400px){
+    .details2-form{
+        width:400px;
+    }
+   }
+   @media(max-width:370px){
+    .details2-form{
+        width:350px;
+    }
+   }
+   @media(max-width:295px){
+    .details2-form{
+        width:300px;
+    }
+   }
+   @media(max-width:294px){
+        #lname{
+            margin-left:125px;
+        }
+    
+   }
+   @media(max-width:242px){
+    .details2-form{
+        width:270px;
+
+    }
+    label{
+        width:100%;
+    }
+   }
+   @media(max-width:198px){
+    .details2-form{
+        width:220px;
+    }
+   }
     </style>
 
     <body>
@@ -99,20 +144,28 @@
                     <b>Failed!</b> Select a date within 3 days from today.
                 </div>';
                 }
+                else if($status=='existemail'){
+                    echo' <div class="msg msg-empty">
+                    <b>Failed!</b> Email already exists.
+                </div>';}
         ?> 
+        <!-- <p style="color:red;">Please fill the deatils below.Note-Appointment date should be within three days from today and appointments on sunday not allowed.</p> -->
         <div id="details2-form" class="details2-form">
                 <form role="form" class="form" action="get_appointment.php" method="post">
+                
                 <div class="form-group">
                     <label for="name">Name :</label>
                     <div class="row">
                         <div class="col">
                         <input type="text" name="fname" class="form-control" placeholder="First name" required>
                         </div>
-                        <div class="col">
-                        <input type="text" class="form-control" name="lname" placeholder="Last name" required>
+                        <div class="col" id="lname">
+                        <input type="text"  class="form-control" name="lname" placeholder="Last name" required>
                     </div>
                 </div>
                   </div>
+
+                  
 
                   <div class="form-group">
                     <label for="exampleInputEmail1">Email Id :</label>

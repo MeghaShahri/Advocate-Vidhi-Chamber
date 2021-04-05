@@ -14,9 +14,14 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
     
     echo $timee .'<br>';
 
-    $sql1 = "INSERT INTO appointment (fname,lname,email,phone,timee) VALUES ('$fname','$lname',$email,$phone,$timee)";
+    $sql1 = "INSERT INTO `appointment` (`fname`, `lname`, `email`, `phone`, `timee`) VALUES ('$fname','$lname','$email','$phone','$timee')";
     $result1 = mysqli_query($conn,$sql1);
-    echo var_dump($result1);
+    if($result1){
+
+    }else{
+        header("location:/Advocate-Vidhi-Chambers/appointment.php?status=existemail");
+
+    }
 
     
     
@@ -92,31 +97,29 @@ $day3=$day3+1;
 
 if ($entered_date==$today and $day!=7) {
     echo 'appointment today and today no sunday';
-    // header("location:/Advocate-Vidhi-Chambers/appointment.php?status=nosunday");
+   header("location:/Advocate-Vidhi-Chambers/appointment.php?status=nosunday");
 
 } elseif ($entered_date==$today and $day==7) {
     echo 'appoitment today but today  sunday'.'<br>';
     echo 'select another date';
-    // header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday");
+    header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday");
     
 } elseif($entered_date==$date1 and $day1!=7) {
     echo 'appointment tom and tom no sunday';
-    $done=1;
-    // header("location:/Advocate-Vidhi-Chambers/appointment.php?status=nosunday");
+    header("location:/Advocate-Vidhi-Chambers/appointment.php?status=nosunday");
 
 } elseif($entered_date==$date1 and $day1==7) {
     echo 'appointment tom and tom  sunday'.'<br>';
     echo 'select another date';
-    // header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday");
+    header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday");
     
 }elseif($entered_date==$date2 and $day2!=7) {
     echo 'appointment day after tom and no sunday';
-    $done=1;
-    //header("location:/Advocate-Vidhi-Chambers/appointment.php?status=nosunday");
+    header("location:/Advocate-Vidhi-Chambers/appointment.php?status=nosunday");
 }elseif($entered_date==$date2 and $day2==7) {
     echo 'appointment day after tom and sunday'.'<br>';
     echo 'select another date';
-    // header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday");
+    header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday");
 }
 elseif($entered_date==$date3 and $day3!=7) {
     echo 'appointment done no sunday'.'<br>';   
@@ -124,10 +127,10 @@ elseif($entered_date==$date3 and $day3!=7) {
 }
 elseif($entered_date==$date3 and $day3==7) {
     echo 'sunday no appointments'.'<br>';   
-    //header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday"); 
+    header("location:/Advocate-Vidhi-Chambers/appointment.php?status=sunday"); 
 }else{
     echo "appointments can only be given till three days from today.";
-    //header("location:/Advocate-Vidhi-Chambers/appointment.php?status=greaterdate");
+    header("location:/Advocate-Vidhi-Chambers/appointment.php?status=greaterdate");
 }
 
 

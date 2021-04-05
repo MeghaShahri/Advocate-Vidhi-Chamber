@@ -21,6 +21,41 @@
 
         <!-- Template Stylesheet -->
         <link href="css/style.css" rel="stylesheet">
+
+    <style>
+        #agree{
+            width: 20%;
+            color: white;
+            padding: 10px 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 0;
+            position: absolute;
+            background:#ff6600;
+            color:white;
+            border:2px solid black;
+           
+            margin-bottom:20px;  
+            left: 50%;
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+
+        .modal-content{
+            padding:20px;
+        }
+        .modal-body{
+            text-align:center;
+        }
+        .modal-footerr{
+            margin-top:20px;
+            margin-bottom:20px;
+        }
+        
+           
+    
+    </style>
     </head>
 
     <body>
@@ -34,22 +69,22 @@
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLongTitle">VIDHI CHAMBER</h5>
+          <h5 class='col-12 modal-title text-center' id="exampleModalLongTitle" style="font-family:Arial;color:blue;">VIDHI CHAMBERS</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeMe()">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
           <p style="color:black;">Disclaimer & Confirmation As per the rules of the Bar Council of India,law firms are not permitted to
-              solicit work and advertise.<br>By clicking on the "I AGREE" button below,user acknowledges the following:<br>
+              solicit work and advertise.<br><br><b>By clicking on the "I AGREE" button below,user acknowledges the following:</b><br><br>
               a)there has been no advertisements,personal communication,solicitation,invitation or inducement of any sort
-              whatsoever from us or any of our members to solicit any work through this website;<br>
+              whatsoever from us or any of our members to solicit any work through this website;<br><br>
               b)user wishes to gain more information about "VIDHI CHAMBERS" and its attorneys for his/her own.
           </p>
         </div>
-        <div class="modal-footer">
-          <button type="button" class="btn" style="background:black; color:white;" onclick="location.href='home.php';" >I Agree</button>
-          <button type="button" class="btn"style="background:black; color:white;" data-dismiss="modal" onclick="closeMe()"> I Diasagree</button>
+        <div class="modal-footerr">
+          <button type="button" id="agree" onclick="location.href='home.php';" >I Agree</button>
+          <!-- <button type="button" class="btn"style="background:black; color:white;" data-dismiss="modal" onclick="closeMe()"> I Diasagree</button> -->
          
         </div>
       </div>
@@ -63,55 +98,49 @@
             
             
             <!-- Carousel Start -->
-            <div id="carousel" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#carousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#carousel" data-slide-to="1"></li>
-                    <li data-target="#carousel" data-slide-to="2"></li>
-                </ol>
+           
+            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="img/carousel-1.jpg" alt="Carousel Image">
-                        <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We fight for your justice</h1>
-                            <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p>
+                    <img class="d-block w-100" src="img/img1.jpg"alt="First slide">
+                    <div class="carousel-caption" id="caption1">
+                            <h1 class="animated fadeInLeft" id="caption1">We fight for your Privilege</h1>
+                            <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
-
                     <div class="carousel-item">
-                        <img src="img/carousel-2.jpg" alt="Carousel Image">
-                        <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We prepared to oppose for you</h1>
-                            <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p>
+                    <img class="d-block w-100" src="img/img3.jpg" alt="Second slide">
+                    <div class="carousel-caption" id="caption2">
+                            <h1 id="banner-two-text" class="animated fadeInLeft" id="caption2">We fight for your Privilege</h1>
+                            <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
-
                     <div class="carousel-item">
-                        <img src="img/carousel-3.jpg" alt="Carousel Image">
-                        <div class="carousel-caption">
-                            <h1 class="animated fadeInLeft">We fight for your privilege</h1>
-                            <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p>
+                    <img class="d-block w-100" src="img/img2.jpg" alt="Third slide">
+                    <div class="carousel-caption" id="caption3">
+                            <h1 class="animated fadeInLeft" id="caption3">We fight for your Privilege</h1>
+                            <!-- <p class="animated fadeInRight">Lorem ipsum dolor sit amet elit. Mauris odio mauris...</p> -->
                             <!-- <a class="btn animated fadeInUp" href="#">Get free consultation</a> -->
                         </div>
                     </div>
                 </div>
-
-                <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
-            </div>
+                </div>
+            <!-- Carousel End -->
             <!-- Carousel End -->
             
             
             <!-- Top Feature Start-->
-            <div class="feature-top">
+            <!-- <div class="feature-top">
                 <div class="container-fluid">
                     <div class="row align-items-center">
                         <div class="col-md-3 col-sm-6">
@@ -144,7 +173,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Top Feature End-->
             
             
